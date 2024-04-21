@@ -19,7 +19,7 @@ This repository serves as a collection of audit reports conducted on smart contr
 ### PasswordStore 
 - **Date:** 19/4/2024
 - **Audit Report:** 19-4-24-PasswordShare-Audit-Report.pdf
-- **Audited Repo:** *https://github.com/FalseGenius/3-passwordstore-audit/tree/passwordstore-audit*
+- **Audited Repo:** *https://github.com/FalseGenius/foundry-passwordstore-audit*
 
 
 ## Contributing

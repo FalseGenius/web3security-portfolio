@@ -2,7 +2,7 @@
 
 Welcome to the repository for Smart Contract Audit Reports. This repository contains audit reports for various smart contracts I've reviewed.
 
-**Note:** *Currently, this repository only contains one report for a personal project. More reports will be added as future audits are completed.*
+**Note:** *More reports will be added as future audits are completed.*
 
 ## Table of Contents
 
@@ -16,13 +16,13 @@ This repository serves as a collection of audit reports conducted on smart contr
 
 ## Audit Reports
 
-### PasswordStore 
-- **Date:** 19/4/2024
-- **Audit Report:** 19-4-24-PasswordShare-Audit-Report.pdf
-- **Audited Repo:** *https://github.com/FalseGenius/foundry-passwordstore-audit*
+| Audits                                                                          | Date       | Audit Report                                     |
+|---------------------------------------------------------------------------------|------------|--------------------------------------------------|
+| [PasswordStore](https://github.com/FalseGenius/foundry-passwordstore-audit)     | 19/4/2024  | 19-4-24-PasswordShare-Audit-Report.pdf           |
+| [PuppyRaffle](https://github.com/FalseGenius/foundry-puppyraffle-audit)         | 24/4/2024  | 24-04-2024-PuppyRaffleAuditReport.pdf            |
 
 
 ## Contributing
 
-Currently, this repository only contains my personal audits. However, in the future, I may consider contributions from others. Please reach out for further discussion before submitting a pull request.
+Currently, this repository only contains my personal audits of [CodeHawks first flights](https://www.codehawks.com/first-flights). However, in the future, I may consider contributions from others. Please reach out for further discussion before submitting a pull request.
 

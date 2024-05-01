@@ -18,8 +18,8 @@ This repository serves as a collection of audit reports conducted on smart contr
 
 | Audits                                                                          | Date       | Audit Report                                     |
 |---------------------------------------------------------------------------------|------------|--------------------------------------------------|
-| [PasswordStore](https://github.com/FalseGenius/foundry-passwordstore-audit)     | 19/4/2024  | 19-4-24-PasswordShare-Audit-Report.pdf           |
-| [PuppyRaffle](https://github.com/FalseGenius/foundry-puppyraffle-audit)         | 24/4/2024  | 24-04-2024-PuppyRaffleAuditReport.pdf            |
+| [PasswordStore]((https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded)| 19/4/2024  | 19-4-24-PasswordShare-Audit-Report.pdf           |
+| [PuppyRaffle](https://github.com/Cyfrin/4-puppy-raffle-audit)                   | 24/4/2024  | 24-04-2024-PuppyRaffleAuditReport.pdf            |
 
 
 ## Contributing

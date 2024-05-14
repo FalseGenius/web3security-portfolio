@@ -22,6 +22,7 @@ This repository serves as a collection of audit reports conducted on smart contr
 | [PuppyRaffle](https://github.com/Cyfrin/4-puppy-raffle-audit)                   | 24/4/2024  | 24-04-2024-PuppyRaffleAuditReport.pdf            |
 | [AirDropper](https://github.com/Cyfrin/2024-04-airdropper)                      | 02/5/2024  | 02-05-2024-AirdropperAuditReport.pdf             |
 | [Soulmate](https://github.com/Cyfrin/2024-02-soulmate)                          | 05/5/2024  | 05-05-2024-SoulmateAuditReport.pdf               |
+| [TSwap](https://github.com/Cyfrin/5-t-swap-audit)                               | 14/5/2024  | 14-05-2024-TSwapAuditReport.pdf                  |
 
 
 ## Contributing

@@ -23,6 +23,7 @@ This repository serves as a collection of audit reports conducted on smart contr
 | [AirDropper](https://github.com/Cyfrin/2024-04-airdropper)                      | 02/5/2024  | 02-05-2024-AirdropperAuditReport.pdf             |
 | [Soulmate](https://github.com/Cyfrin/2024-02-soulmate)                          | 05/5/2024  | 05-05-2024-SoulmateAuditReport.pdf               |
 | [TSwap](https://github.com/Cyfrin/5-t-swap-audit)                               | 14/5/2024  | 14-05-2024-TSwapAuditReport.pdf                  |
+| [ThunderLoan](https://github.com/Cyfrin/6-thunder-loan-audit)                   | 18/5/2024  | 18-05-2024-ThunderLoanAuditReport.pdf            |
 
 
 ## Contributing

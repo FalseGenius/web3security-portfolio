@@ -24,6 +24,7 @@ This repository serves as a collection of audit reports conducted on smart contr
 | [Soulmate](https://github.com/Cyfrin/2024-02-soulmate)                          | 05/5/2024  | 05-05-2024-SoulmateAuditReport.pdf               |
 | [TSwap](https://github.com/Cyfrin/5-t-swap-audit)                               | 14/5/2024  | 14-05-2024-TSwapAuditReport.pdf                  |
 | [ThunderLoan](https://github.com/Cyfrin/6-thunder-loan-audit)                   | 18/5/2024  | 18-05-2024-ThunderLoanAuditReport.pdf            |
+| [BossBridge](https://github.com/Cyfrin/2023-11-Boss-Bridge)                     | 21/5/2024  | 21-05-2024-L1TokenBridgeAuditReport.pdf          |
 
 
 ## Contributing
